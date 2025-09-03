@@ -8,7 +8,7 @@
 <br>
 
 <h3 align="center">
-    <strong>A passionate cybersecurity enthusiast | CTF Player</strong>
+    <strong>CTF Player (0xH3G4Z1) | Top 1% on THM | CSIT Student @EJUST ’28 | ECPC Finalist ’25 | Cybersecurity Enthusiast</strong>
 </h3>
 
 <div align="center">
@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,bash,cpp,javascript,typescript" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,bash,cpp,javascript,typescript,c" alt="Languages" />
 </div>
 
 <h2 align="center">⚒️ Tools ⚒️</h2>
