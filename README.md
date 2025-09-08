@@ -8,7 +8,7 @@
 <br>
 
 <h3 align="center">
-    <strong>CTF Player (0xH3G4Z1) | Top 1% on THM | CSIT Student @EJUST ’28 | ECPC Finalist ’25 | Cybersecurity Enthusiast</strong>
+    <strong>CTF Player (0xH3G4Z1) | CSIT Student @EJUST ’28 | ECPC Finalist ’25 | Cybersecurity Enthusiast</strong>
 </h3>
 
 <div align="center">
